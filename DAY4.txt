@@ -1,0 +1,37 @@
+alt (tag) = uswaqt use hota ha jb apki ki image ka name galat ha ya batata ha ka 
+apki image kis path pr ha 
+action =form ka undr jitna bhi data likho, wo sara data us link pr chala jy 
+action = "htpp/google.com"(is link pr save karo)
+get= is ko thora sa data do to boht sara data lakr ata ha 
+post = data ko send karna ka lya use hota ha jaha pr  apko nh pata apka data 
+kaha gya
+name = use hota ha identification ka lya server ko pata chalga ka kya araha ha 
+like name="FatherName" ab server ko pata ha yaha input ma father name ay ga 
+apna nma e
+
+max_length=is use to limt the character mt name bs 10 words ka ho 
+size =daba(box) ka size kitna bara krna ha 
+serach = last ma "x" deta ha taka sb text ekst delete hojy
+
+tel= is used to get phone number 
+caution:
+jo value hm input ma likhta ha wo "value" ka attribute ma save hoti ha by default 
+
+cols= kitna column add krna ha
+raws= kitni raws add krni ha 
+place holder= jis ma ap user ko batata ha ka kya likhna ha 
+
+caution :
+html ka asa attribute jina name or value same ha unka bs name likh do like
+
+checked = "checked" yaha pr bs checked bhi likha sekhta ho	
+
+select = drop down ka liya use hota ha 
+option = like pak,india,uae etc
+
+multiple use hota ha select tag ka undr taka multiple options select ho saka
+selected use hota ha kisi ek value ko by default show krwana ka lya 
+submit= is use to send form to server 
+hidden = is use to check the number of user vist in web a or b,c,d 
+user ko show nh hoga but km horaha ho ga 
+label =  	
